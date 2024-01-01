@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "javascript/Call Stack e Memory Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0b10e5ef2c2180ae",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "javascript/Call Stack e Memory Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "javascript/Call Stack e Memory Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "javascript/Call Stack e Memory Heap.md"
               }
             }
           }
@@ -147,15 +148,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "651bb26611e8b114",
+  "active": "3cd1d264579e79a4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "javascript/Call Stack e Memory Heap.md",
+    "javascript/Ciclo de vida.md",
+    "README.md",
+    "math",
     "algorithms",
     "microservices",
     "databases",
     "typescript",
     "javascript",
     "Welcome.md",
-    "README.md",
     "ain-t-it-fun/README.md",
     "ain-t-it-fun"
   ]
